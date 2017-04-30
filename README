@@ -1,0 +1,22 @@
+Name: Tyler Crabtree
+Email: Crabtree.Tyler@gmail.com
+
+Project description: Here is a list of files within this submission; README, rot90.cpp, rot90 build file, Makefile, a folder named “t” for testing. This project takes in an input from stdin and rotates the input 90 degrees. The program prints the first letter of the last word first, followed by the first letter of the second to last word, and the program continues this pattern until the total input is rotated and printed. Here is an example string to enter, simply type “Make” in terminal before implementing this example.  
+
+printf "What stands\nin the way\nbecomes\nthe way\n" | ./rot90
+
+The output should appear as the text below. 
+
+tbiW
+henh
+ec a
+ ott
+wmh 
+aees
+ys t
+  wa
+  an
+  yd
+   s
+
+Please enjoy. :)
